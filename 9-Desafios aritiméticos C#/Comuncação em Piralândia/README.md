@@ -29,13 +29,13 @@
  * - Imprimir o número lido invertido. Não esqueça de 
  * imprimir a quebra de linha (\n) no final, caso 
  * contrário você receberá (Presentation Error).
- */
+ **/
 using System; 
 
 class URI {
 
     static void Main(string[] args) { 
-
+    
             string n = Console.ReadLine();
             //continue a solução
             char[] arr = n.ToCharArray();
@@ -44,8 +44,9 @@ class URI {
             string v = new string(arr);
             
             Console.WriteLine(v);
-
+    
     }
 
 }
+
 **************************************************************************************

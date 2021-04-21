@@ -1,15 +1,15 @@
-#### **Desafio da DIO - Digital Innovation On**:alien:
+#### **Desafio da DIO - Digital Innovation On**​ ​/​ ​L​o​c​a​l​i​z​a​L​a​b​s:alien:
 
 - [ ]1-Lógica de programação essencial
 
-- [ ]2-Aprenda o que são Estrutura de Dados e Algoritimos
+- [ ]2-Aprenda o que são Estrutura de Dados e Algoritmos
   - [ ]3-Introdução ao Git e ao GitHub
     - [ ]4-Primeiros passos com .NET + C#
       - [ ]5-Orientação a objetos em .NET
         - [ ]6-Solução de problemas em C#
           - [ ]7-Criando uma aplicação de transferência bancárias com .NET
             - [ ]8-Fundamentos de Arquitetura de Sistemas
-              - [ ]9-Desafios aritiméticos C#
+              - [ ]9-Desafios aritméticos C#
 
 - [ ]10-Criar um APP simples de cadastro de séries em .NET
   - [ ]11-SQL SERVER-Criando suas primeiras consultas

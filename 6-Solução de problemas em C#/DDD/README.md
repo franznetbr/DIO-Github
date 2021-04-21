@@ -3,9 +3,9 @@ DDD
  Desafio
     Leia um número inteiro que representa um código de DDD para discagem interurbana. 
  Em seguida, informe à qual cidade o DDD pertence, considerando a tabela abaixo:
- 
+
  DDD | Destino 
- 61  | Brasilia
+ 61  | Brasília
  71  | Salvador
  11  | São Paulo
  21  | Rio de Janeiro
@@ -20,16 +20,16 @@ DDD
     A entrada consiste de um único valor inteiro.
  Saída
     Imprima o nome da cidade correspondente ao DDD existente na entrada. Imprima DDD nao cadastrado caso não existir DDD correspondente ao número digitado.
-*/
+**/
 
 using System; 
 
 class minhaClasse {
 
     static void Main(string[] args) { 
-
+    
             int ddd = Convert.ToInt32(Console.ReadLine());
-
+    
             switch (ddd)
             {
                 case 61:
@@ -60,7 +60,6 @@ class minhaClasse {
                     Console.WriteLine("DDD nao cadastrado");
                     break;
             }
-
     }
 
 }
