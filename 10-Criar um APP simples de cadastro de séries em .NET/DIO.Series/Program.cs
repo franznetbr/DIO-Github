@@ -70,7 +70,6 @@ namespace DIO.Series
             foreach (int i in Enum.GetValues(typeof(Genero)))
             {
                 Console.WriteLine("{0}-{1}", i, Enum.GetName(typeof(Genero), i));
-
             }
             Console.Write("Digite o genero conforme opções acima: ");
             int entradaGenero = int.Parse(Console.ReadLine());
@@ -84,7 +83,7 @@ namespace DIO.Series
             Console.Write("Digite a descrição da série: ");
             string entradaDescricao = Console.ReadLine();
 
-        //Istanciando a classe Conta para objeto "novaConta" efentuando uma conversão de entrada da classe TipoConta
+        //Istânciando a classe Conta para objeto "novaConta" efentuando uma conversão de entrada da classe TipoConta
         //para "entradaTipoConta" e entrada de dados no "enum" na conta correta da classe TipoConta.
 
             Serie novaSerie = new Serie(id: repositorio.ProximoId(),
@@ -103,17 +102,17 @@ namespace DIO.Series
             repositorio.Exclui(indiceSerie);
 
            }
-           private static void VisualizarSerie()
-        {
+           private static void VisualizarSerie()            
+            {
             Console.WriteLine("Digite o id da série: ");
             int indiceSerie = int.Parse(Console.ReadLine());
-
-            var serie = repositorio.RetornaPorId(indiceSerie);
-            Console.WriteLine(serie);
-
-           }
+           
+                var serie = repositorio.RetornaPorId(indiceSerie);
+                Console.WriteLine(serie);
+            }           
+        
             private static void AtualizarSerie()
-        {
+            {
             Console.WriteLine("Digite o id da série: ");
             int indiceSerie = int.Parse(Console.ReadLine());
 
@@ -133,10 +132,7 @@ namespace DIO.Series
 
             Console.Write("Digite a descrição da série: ");
             string entradaDescricao = Console.ReadLine();
-
-        //Istanciando a classe Conta para objeto "novaConta" efentuando uma conversão de entrada da classe TipoConta
-        //para "entradaTipoConta" e entrada de dados no "enum" na conta correta da classe TipoConta.
-
+          
             Serie atualizaSerie = new Serie(id: indiceSerie,
                         genero: (Genero)entradaGenero,
                         titulo: entradaTitulo,
@@ -145,7 +141,6 @@ namespace DIO.Series
 
              repositorio.Atualiza(indiceSerie, atualizaSerie);
         } 
-
 
           //Menu - Execução do bloco do Método ObterOpcaoUsuario ao iniciar o programa. 
         private static string ObterOpcaoUsuario()

@@ -1,0 +1,32 @@
+C:\Users\192149\Documents\DotNet\DIO.series\obj\Debug\net5.0\DIO.series.csprojAssemblyReference.cache
+C:\Users\192149\Documents\DotNet\DIO.series\obj\Debug\net5.0\DIO.series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\192149\Documents\DotNet\DIO.series\obj\Debug\net5.0\DIO.series.AssemblyInfoInputs.cache
+C:\Users\192149\Documents\DotNet\DIO.series\obj\Debug\net5.0\DIO.series.AssemblyInfo.cs
+C:\Users\192149\Documents\DotNet\DIO.series\obj\Debug\net5.0\DIO.series.csproj.CoreCompileInputs.cache
+C:\Users\192149\Documents\DotNet\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\192149\Documents\DotNet\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\192149\Documents\DotNet\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\192149\Documents\DotNet\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\192149\Documents\DotNet\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\192149\Documents\DotNet\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\192149\Documents\DotNet\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\192149\Documents\DotNet\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\192149\Documents\DotNet\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\192149\Documents\DotNet\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\192149\Documents\DotNet\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\192149\Documents\Desafio-DIO\10-Criar um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
