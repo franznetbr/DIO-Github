@@ -1,0 +1,88 @@
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\appsettings.json
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\Mongo_DIO.exe
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\Mongo_DIO.deps.json
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\Mongo_DIO.runtimeconfig.json
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\Mongo_DIO.runtimeconfig.dev.json
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\Mongo_DIO.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\ref\Mongo_DIO.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\Mongo_DIO.pdb
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\Mongo_DIO.csprojAssemblyReference.cache
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\Mongo_DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\Mongo_DIO.AssemblyInfoInputs.cache
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\Mongo_DIO.AssemblyInfo.cs
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\Mongo_DIO.csproj.CoreCompileInputs.cache
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\Mongo_DIO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\Mongo_DIO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\staticwebassets\Mongo_DIO.StaticWebAssets.Manifest.cache
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\staticwebassets\Mongo_DIO.StaticWebAssets.xml
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\scopedcss\bundle\Mongo_DIO.styles.css
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\Mongo_DIO.RazorTargetAssemblyInfo.cache
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\Mongo_DIO.csproj.CopyComplete
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\Mongo_DIO.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\ref\Mongo_DIO.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\Mongo_DIO.pdb
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\obj\Debug\net5.0\Mongo_DIO.genruntimeconfig.cache
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\snappy32.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\snappy64.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\libzstd.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\DnsClient.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\192149\Documents\DotNet\Mong_DIO\Mongo_DIO\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\appsettings.json
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\snappy32.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\snappy64.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\libzstd.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\Mongo_DIO.exe
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\Mongo_DIO.deps.json
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\Mongo_DIO.runtimeconfig.json
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\Mongo_DIO.runtimeconfig.dev.json
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\Mongo_DIO.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\ref\Mongo_DIO.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\Mongo_DIO.pdb
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\DnsClient.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\Mongo_DIO.csprojAssemblyReference.cache
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\Mongo_DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\Mongo_DIO.AssemblyInfoInputs.cache
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\Mongo_DIO.AssemblyInfo.cs
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\Mongo_DIO.csproj.CoreCompileInputs.cache
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\Mongo_DIO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\Mongo_DIO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\staticwebassets\Mongo_DIO.StaticWebAssets.Manifest.cache
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\staticwebassets\Mongo_DIO.StaticWebAssets.xml
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\scopedcss\bundle\Mongo_DIO.styles.css
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\Mongo_DIO.RazorTargetAssemblyInfo.cache
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\Mongo_DIO.csproj.CopyComplete
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\Mongo_DIO.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\ref\Mongo_DIO.dll
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\Mongo_DIO.pdb
+C:\Users\192149\Documents\Desafio-DIO\19-Construindo um projeto de uma API.NET integrada ao MongoDB\Mong_DIO\obj\Debug\net5.0\Mongo_DIO.genruntimeconfig.cache

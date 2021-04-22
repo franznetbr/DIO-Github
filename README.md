@@ -18,4 +18,5 @@
         - [ ]16-Projetos ágeis com SCRUM
           - [ ]17-Arquitetura de Sistemas Avançado
             - [ ]18-Configuração da arquitetura back-end com .NET Core
+            - [ ]19-Construindo um projeto de uma API.NET integrada ao MongoDB
 
