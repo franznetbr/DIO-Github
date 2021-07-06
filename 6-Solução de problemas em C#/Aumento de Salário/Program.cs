@@ -55,8 +55,7 @@ namespace ajudandoJoao
                 percentual = ((novoSalario - salario) * 100) / salario;
                 Console.WriteLine("Novo salario: {0:0.00}", novoSalario);
                 Console.WriteLine("Reajuste ganho: {0:0.00}", reajuste);
-                Console.WriteLine("Em percentual: {0} %", percentual);
-                
+                Console.WriteLine("Em percentual: {0} %", percentual);                
             }
     }
 
